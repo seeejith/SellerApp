@@ -1,0 +1,15 @@
+{
+    "DBName":"sellerapp",
+    "DBDriverName":"mysql",
+    "DBUserName":"root",
+    "DBPassword":"root",
+    "DBPort":"3306",
+    "DBIp":"127.0.0.1", 
+    "MONGODBName":"sellerapp",
+    "MONGODBDriverName":"mongodb",
+    "MONGODBUserName":"admin",
+    "MONGODBPassword":"password",
+    "MONGODBPort":"27017",
+    "MONGODBIp":"localhost",
+    "MONGODBCollectionName":"sellerappCollection"
+}

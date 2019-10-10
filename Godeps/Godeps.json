@@ -1,0 +1,63 @@
+{
+	"ImportPath": "SellerApp",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/caarlos0/env",
+			"Comment": "v6.1.0",
+			"Rev": "b1dce163743c66634eeef5988da14b031b1aa8f6"
+		},
+		{
+			"ImportPath": "github.com/ghodss/yaml",
+			"Comment": "v1.0.0-14-g25d852a",
+			"Rev": "25d852aebe32c875e9c044af3eef9c7dc6bc777f"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.4.0-37-g14bb9c0",
+			"Rev": "14bb9c0fc20fc57f6c3339adeac7f469768d9524"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm",
+			"Comment": "v1.9.11",
+			"Rev": "81c17a7e2529c59efc4e74c5b32c1fb71fb12fa2"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/gorm/dialects/mysql",
+			"Comment": "v1.9.11",
+			"Rev": "81c17a7e2529c59efc4e74c5b32c1fb71fb12fa2"
+		},
+		{
+			"ImportPath": "github.com/jinzhu/inflection",
+			"Comment": "v1.0.0",
+			"Rev": "f5c5f50e6090ae76a29240b61ae2a90dd810112e"
+		},
+		{
+			"ImportPath": "github.com/kataras/golog",
+			"Rev": "99c81de45f403416908e06cb97b0811a4306bc6b"
+		},
+		{
+			"ImportPath": "github.com/kataras/pio",
+			"Rev": "ea782b38602d1e5df3c2b891978a1f80d917a6bd"
+		},
+		{
+			"ImportPath": "github.com/kataras/pio/terminal",
+			"Rev": "ea782b38602d1e5df3c2b891978a1f80d917a6bd"
+		},
+		{
+			"ImportPath": "github.com/tkanos/gonfig",
+			"Comment": "1.0-7-g896f3d8",
+			"Rev": "896f3d81fadfe082262467a1c22fd43278806a02"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "aed5e4c7ecf9f069775e08834fb724544628d38d"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Comment": "v2.2.4",
+			"Rev": "f221b8435cfb71e54062f6c6e99e9ade30b124d5"
+		}
+	]
+}
